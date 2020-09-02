@@ -1,1 +1,1 @@
-![kodebalt logo](https://i.imgur.com/ktl3NDL.png)
+<img src="https://i.imgur.com/XwfKmWm.png" align="left" height="200" >
