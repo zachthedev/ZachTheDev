@@ -1,2 +1,4 @@
-<img src="https://i.imgur.com/kSUpQ4u.png" align="middle" width="750" >
-<img src="https://visitcount.itsvg.in/api?id=ZachTheDev&label=Profile%20Views&color=7&icon=5&pretty=true" />
+[![code](https://i.imgur.com/kSUpQ4u.png)][1]
+[![Profile Views](https://komarev.com/ghpvc/?username=ZachTheDev&color=FFB49D&label=Profile+Views)][1]
+[1]:
+  https://zachthe.dev
